@@ -1,0 +1,88 @@
+body{
+    font-family: sans-serif;
+    font-size:small;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+    color: #666666;
+    border-style: solid;
+    border-color:  #ccccff;
+    border-width: 1px;
+    border-radius: 4px;
+}
+
+.menu{
+    margin-left: 0px;
+    text-decoration: none;
+    font-size: small;
+    float: left;
+    margin-right: 10px;
+    background: #ccccff;
+    padding: 10px;
+}
+
+.banner{
+    background: #ccccff;
+    font-family: sans-serif;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    color: white;
+    padding: 20px;
+}
+
+.btns{
+    border-style: solid; 
+    border-radius: 5px; 
+    border-width: 2px; 
+    border-color: #00cccc;
+    background: #00cccc;
+    padding:5px;
+    color: #ffffff;
+    width: 50%;
+    float: right;
+}
+
+.btns-smaller{
+    border-style: solid; 
+    border-radius: 5px; 
+    border-width: 2px; 
+    border-color: #00cccc;
+    background: #00cccc;
+    padding:2px;
+    color: #ffffff;
+    width: 25%;
+    float: right;
+}
+
+
+table, tr, td{
+    border: solid #9999ff thin;
+    border-collapse: collapse;
+    padding: 4px 8px; 
+}
+
+.unmarked-table{
+    border: solid #ffffff thin;
+}
+
+.unmarked-tr{
+    border: solid #ffffff thin;
+}
+
+.unmarked-td{
+    border: solid #ffffff thin;
+}
+
+
+.search{
+    margin: 10px;
+    float: right;
+    border:solid #cccccc 1px;
+    padding: 5px;
+    border-radius: 3px;
+    width:50%;
+}
+
+
+
+
